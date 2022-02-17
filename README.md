@@ -1,7 +1,7 @@
 # Hi there, I'm [Yuiko](https://vk.com/worstghoul) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=ITMO+University.+Software+engineer.)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230F11FF&size=24&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 <!--
 **YuikoSempai/YuikoSempai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
